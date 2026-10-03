@@ -1,0 +1,2 @@
+# evusd
+Evermint USD Stablecoin
